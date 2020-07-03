@@ -47,5 +47,8 @@
 </script>
 
 <style scoped>
-
+  .card {
+    position: relative;
+    margin: 5rem auto 1rem auto;
+  }
 </style>
